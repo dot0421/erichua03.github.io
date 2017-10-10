@@ -3,6 +3,30 @@
 Design by http://www.templateaccess.com
 Released for free under a Creative Commons Attribution 3.0 License
 */
+body{margin:0; padding-bottom: 40px;color: #5a5a5a;}
+#carousel-example-generic{
+	height: auto;
+	outline: 1px dash #eee;
+	perspective: 1000px;
+}
+
+.banner-wrap{
+height: auto;
+outline: 1px dash #eee;
+perspective: 1000px;
+margin-top:-20px;
+}
+
+.carousel{height: 500px;background-color: white;}
+
+.carousel .item{height: 500px;background-color: white;width: auto;height:auto;}
+.carousel .img{width: 100%;}
+.carousel-caption button {color:white;margin-bottom: 0;font:bold 24px Arial, Helvetica, sans-serif;}
+#summary-container{text-align: center;}
+.feature-divider{margin: 40px 0;}
+.feature{padding: 30px 0;}
+.feature-heading{margin-top: 120px;font-size: 50px;color: #2a6496;}
+.feature-heading .text-muted{font-size: 28px;color: #999;}
 body { margin:0; padding:0; width:100%; color:#959595; font:normal 12px/1.8em Arial, Helvetica, sans-serif;}
 html, .main { padding:0; margin:0;}
 .main { background:#fff url(images/header_bg.gif) repeat-x center 85px;}
