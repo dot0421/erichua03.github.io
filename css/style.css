@@ -11,7 +11,7 @@ html, .main { padding:0; margin:0;}
 h1 { padding:29px 24px; float:left; color:#e4e5e5; font:bold 36px/1.2em Arial, Helvetica, sans-serif; letter-spacing:-3px;}
 h1 a, h1 a:hover { color:#e4e5e5; text-decoration:none;}
 h1 span { color:#00c6ff;}
-.logo small { color:black; font:normal 24px Arial, Helvetica, sans-serif; letter-spacing:normal; padding-left:32px;}
+h1 small { color:black; font:normal 24px Arial, Helvetica, sans-serif; letter-spacing:normal; padding-left:32px;}
 h2 { font:normal 24px/1.5em Arial, Helvetica, sans-serif; padding:8px 0; margin:8px 0; color:#595959;}
 p { margin:8px 0; padding:0 0 8px 0; font:normal 12px/1.8em Arial, Helvetica, sans-serif;}
 a { color:#00c6ff; text-decoration:underline;}
